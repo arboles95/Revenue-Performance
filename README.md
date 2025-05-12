@@ -1,5 +1,7 @@
 # Revenue Performance Dashboard Project
 
+[![View this dashboard](https://img001.prntscr.com/file/img001/W2nRZmKsSOSaEYibks0fhQ.png)](https://app.powerbi.com/view?r=eyJrIjoiNzEzMjIxODItNzcyMS00MGIzLTk2NDMtZTYyNTNiNTEwMWE1IiwidCI6ImIzY2ZkYTA0LTQ1YmEtNDI3Ni05YTdkLTQzNjM3YzA2OTUyNyIsImMiOjR9)
+
 **Project Overview:**  
 This project entails the development of a global revenue report for a Chief Revenue Officer (CRO). The primary objective is to provide an insightful dashboard that facilitates data-driven decision-making.
 
